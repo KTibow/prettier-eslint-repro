@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "prettier-eslint-cli": "^8.0.1"
+  }
+}
